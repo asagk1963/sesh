@@ -1,4 +1,1 @@
-sesh
-====
-
-A "sesh [medu netscher]" for android tablet as my first project in android development
+This project is void at this time but will be renamed to become the another, hopefully useful project then...
